@@ -1,2 +1,2 @@
 # Classes
-Alguns programas aleatórios em python, de ideias que surgem durantes as aulas da faculdade.
+Alguns implementações simples, envolvendo economia e programação.
